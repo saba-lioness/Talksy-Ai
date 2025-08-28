@@ -149,8 +149,7 @@ const LandingPage = () => {
                     <p className="text-lg text-slate-600 dark:text-slate-300 mb-10">Meet the minds behind Talksy AI</p>
 
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                        <TeamMember name="Faheem Rafeeq" role="Developer" />
-                        <TeamMember name="Taqi" role="Developer" />
+                       
                         <TeamMember name="Saba Noor" role="Designer" />
                     </div>
                 </div>
